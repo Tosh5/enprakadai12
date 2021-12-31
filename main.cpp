@@ -21,7 +21,5 @@ int main(){
         cout << "error" << endl;
     }
 
-    //std::cout << "Hello World!" << std::endl;
     return 0;
-    
 }
